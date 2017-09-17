@@ -1,0 +1,24 @@
+{
+  "name": "culoe-fb-messenger-bot",
+  "version": "1.0.0",
+  "description": "music fb messenger bot example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ntu2koTrevor/culoe-fb-messenger-bot.git"
+  },
+  "author": "Ntu2koTrevor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ntu2koTrevor/culoe-fb-messenger-bot/issues"
+  },
+  "homepage": "https://github.com/Ntu2koTrevor/culoe-fb-messenger-bot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "request": "^2.81.0"
+  }
+}
